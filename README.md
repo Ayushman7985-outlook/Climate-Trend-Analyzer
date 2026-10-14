@@ -116,13 +116,7 @@ python -m pytest -q
 - **Synthetic data:** designed for reproducible software demonstration, not climatological inference.
 - **Missing values:** numeric gaps are interpolated and then filled with the median if needed. For a scientific dataset, justify cleaning choices based on source documentation.
 
-## Screenshots
-After running the pipeline and dashboard, add genuine screenshots under `outputs/images/` or `docs/screenshots/`, then embed them here, for example:
-```markdown
-![Temperature trend](outputs/images/temperature_trend.png)
-![Monthly rainfall](outputs/images/monthly_rainfall.png)
-```
-Do not use mock screenshots as proof of a successful run; capture your own application output.
+
 
 ## Future improvements
 - Replace synthetic values with a cited public dataset (for example, NOAA, NASA, or national meteorological open data)
