@@ -1,0 +1,1 @@
+Use this folder for optional Jupyter notebooks, such as `01_exploratory_analysis.ipynb`. The reproducible pipeline is implemented in `main.py` and `src/` so the project can run without notebook state.

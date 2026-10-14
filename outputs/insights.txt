@@ -1,0 +1,8 @@
+CLIMATE TREND ANALYZER — AUTOMATED SUMMARY
+Dataset type: synthetic demonstration data; not real measured observations.
+Period: 1990–2025
+Estimated linear temperature trend: 0.037 °C/year
+Across the fitted period, yearly average temperature increased in this dataset.
+Rows flagged by Isolation Forest: 13 of 432
+Interpretation caution: anomaly flags are statistical candidates, not proof of climate events.
+The linear fit is descriptive and must not be presented as an authoritative future climate projection.
