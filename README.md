@@ -128,6 +128,3 @@ python -m pytest -q
 
 ## Learning outcomes
 Data cleaning, time-series feature engineering, descriptive statistics, anomaly detection, visualization, testing, dashboarding, Git workflows, and responsible communication of model limitations.
-
-## Author
-Student portfolio project — update this section with your name, profile, and repository URL before publishing.
